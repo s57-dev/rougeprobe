@@ -15,6 +15,11 @@ RogueProbe consists of several key components:
   - Community-focused agent for promoting collective welfare
   - Police state agent for enforcing strict compliance
 
+## Results
+
+![Results](docs/rouge_probe.png)
+
+
 ## Features
 
 - Multi-provider LLM support (OpenAI, Anthropic, Google, etc)
